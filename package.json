@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "expo": "^54.0.11",
+    "lucide-react-native": "^0.544.0",
+    "react-native-svg": "15.12.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.4",
+    "@types/react": "~19.1.10",
+    "typescript": "~5.9.2"
+  }
+}
